@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+lightgbm
+matplotlib
+plotly
+streamlit
+fastapi
+uvicorn
+fastapi
+uvicorn
